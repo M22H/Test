@@ -20,3 +20,4 @@ answer = ask("How many widgets are you ordering?")
 number = answer.to_i
 total = price(number)
 puts "For #{number} widgets, your total is: $#{total}"
+00
